@@ -21,8 +21,8 @@
     "title": "Painful Memory",
     "description": "On a scale of 1 to 7, how would you rate your pain?",
     "default": null,
-    "likert-max":"Max Pain"
-    "likert-min":"Min Pain"
+    "likert-max":"Max Pain",
+    "likert-min":"Min Pain",
     "required": true
   }
 ]
