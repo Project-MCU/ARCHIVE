@@ -1,4 +1,9 @@
 [{
+    "type": 4,
+    "title": "Title of survey",
+    "description": "description of survey",
+    "required": true
+  },{
     "type": 0,
     "title": "Name",
     "description": null,
