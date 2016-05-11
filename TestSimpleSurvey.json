@@ -24,5 +24,10 @@
     "likert-max":"Max Pain",
     "likert-min":"Min Pain",
     "required": true
+  },{
+    "type": 3,
+    "title": "Long Text",
+    "description": "A long long long long text",
+    "required": true
   }
 ]
