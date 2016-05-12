@@ -1,20 +1,23 @@
-[{
-	"id": "1516_y2_MEDU2200_Evaluation",
-	"title": "醫學院學生壓力及學習生活意見調查",
-	"format": "Year End Review",
-	"effective_since": "24may2015",
-	"effective_until": "29may2015",
-	"description": "Hello",
-	"image_large": "https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
-	"image_small": "https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png",
-	"survey_url": "https://raw.githubusercontent.com/Project-MCU/ARCHIVE/master/TestSimpleSurvey.json"
-}, {
-	"id": "1516_y2_Term_End_Evaluation",
-	"title": "Term End Evaluation",
-	"format": "Retrospective Review",
-	"effective_since": "24jun2015",
-	"effective_until": "29jun2015",
-	"description": "Blahblahblahblahblahblahblah",
-	"image_large": "https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
-	"image_small": "https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png"
-}]
+[
+  {
+    "id": "1516_y2_MEDU2200_Evaluation",
+    "title": "醫學院學生壓力及學習生活意見調查",
+    "format": "Independent Review organized by Lumos",
+    "effective_since": "24may2015",
+    "effective_until": "29may2015",
+    "description": "Hello :) 喺大家考完試後風流快活之際，想冒昧打擾一下大家既雅興。\n 相信大家都記得，上個月發生咗好多令人痛心既事。報紙上日日見住一個又一個學生輕生既同時，我地都切身地體會到失去一位親愛既同學既感受。一個月過後，中大又回復返風平浪靜，社會上既迴響亦都平息得七七八八，但除咗一啲應急既措施之外，我哋既教育制度似乎無任何根本性既改變。琴日，又有一位中大醫學院既碩士生因為壓力問題燒炭自盡。\n 傷感過後，我同幾位同學都希望可以做返一啲實際既事，防止下一次有同樣事情發生。所以設計咗一份問卷，想了解一下同學既壓力指數同對課程既意見。讀咗三年preclin，大家都肯定有一番心得，讚又好彈又好，希望大家都可以一次過對faculty盡訴心中情。即使今次既事情未必全然係faculty既責任，但我哋既課程肯定係有好多可以改善既空間。提出好既建議，可以令我哋既師弟妹行少好多冤枉路，所以請大家唔好吝嗇自己既意見啦！\n...\n http://goo.gl/forms/bb8lPoYulX\n 收集晒大家既答覆之後，我地會將數據如實向Faculty反映返，並且要求Faculty作出回應。集合大家既力量先可以推動改變，所以希望大家都可以抽少少時間填一填啦🙆🏻",
+    "image_large": "https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
+    "image_small": "https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png",
+    "survey_url": "https://raw.githubusercontent.com/Project-MCU/ARCHIVE/master/TestSimpleSurvey.json"
+  },
+  {
+    "id": "1516_y2_Term_End_Evaluation",
+    "title": "Term End Evaluation",
+    "format": "Retrospective Review",
+    "effective_since": "24jun2015",
+    "effective_until": "29jun2015",
+    "description": "Blahblahblahblahblahblahblah",
+    "image_large": "https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
+    "image_small": "https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png"
+  }
+]
