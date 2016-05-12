@@ -16,10 +16,10 @@
     "title": "你是否直接入讀Year 2? Did you directly enter Year 2?",
     "default": null,
     "choices":[
-      Yes (Postgraduate),
-      Yes (Transfer),
-      Yes (GPS),
-      No],
+      "Yes (Postgraduate)",
+      "Yes (Transfer)",
+      "Yes (GPS)",
+      "No"],
     "required": true
   },{
     "type": 1,
