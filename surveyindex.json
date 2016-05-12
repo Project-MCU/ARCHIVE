@@ -1,23 +1,20 @@
-[
-     {
-        "id":"1516_y2_MEDU2200_Evaluation",
-		"title":"MEDU2200 Evaluation",
-        "format":"Intermediate Review",
-        "effective_since":"24may2015",
-        "effective_until":"29may2015",
-		"description":"booooohi.",
-        "image_large":"https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
-        "image_small": "https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png",
-        "survey_url": "https://raw.githubusercontent.com/Project-MCU/ARCHIVE/master/TestSimpleSurvey.json",
-     },
-     {
-        "id":"1516_y2_Term_End_Evaluation",
-        "title":"Term End Evaluation",
-        "format":"Retrospective Review",
-        "effective_since":"24jun2015",
-        "effective_until":"29jun2015",
-		"description":"Blahblahblahblahblahblahblah",
-        "image_large":"https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
-        "image_small":"https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png"
-     }
-	]
+[{
+	"id": "1516_y2_MEDU2200_Evaluation",
+	"title": "MEDU2200 Evaluation",
+	"format": "Intermediate Review",
+	"effective_since": "24may2015",
+	"effective_until": "29may2015",
+	"description": "booooohi.",
+	"image_large": "https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
+	"image_small": "https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png",
+	"survey_url": "https://raw.githubusercontent.com/Project-MCU/ARCHIVE/master/TestSimpleSurvey.json"
+}, {
+	"id": "1516_y2_Term_End_Evaluation",
+	"title": "Term End Evaluation",
+	"format": "Retrospective Review",
+	"effective_since": "24jun2015",
+	"effective_until": "29jun2015",
+	"description": "Blahblahblahblahblahblahblah",
+	"image_large": "https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
+	"image_small": "https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png"
+}]
