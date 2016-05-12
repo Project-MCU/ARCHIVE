@@ -12,27 +12,19 @@
     "likert-min":"最大 Highest",
     "required": true
   },{
-    "type": 1,
-    "title": "Name",
-    "description": null,
-    "default": "Anonymous"
-  },{
     "type": 3,
-    "title": "Year",
-    "description": "Your expected graduation year",
+    "title": "你是否直接入讀Year 2? Did you directly enter Year 2?",
     "default": null,
     "choices":[
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022],
+      Yes (Postgraduate),
+      Yes (Transfer),
+      Yes (GPS),
+      No],
     "required": true
   },{
-    "type": 2,
-    "title": "Long Text",
-    "description": "A long long long long text",
+    "type": 1,
+    "title": "姓名 Name (Optional)",
+    "description": "All answers you provided above will be kept anonymous and confidential. The sole purpose of collecting your name is for us to follow up on your thoughts/suggestions if necessary. You may feel free to leave this blank too :)",
     "required": true
   }
 ]
