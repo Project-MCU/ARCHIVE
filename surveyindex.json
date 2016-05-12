@@ -1,0 +1,33 @@
+[
+     {
+        "id":"1516_y2_MEDU2200_Evaluation",
+		"title":"MEDU2200 Evaluation",
+        "format":"Intermediate Review",
+        "effective_since":"24may2015",
+        "effective_until":"29may2015",
+		"description":"In response to a recommendation of members of the University Grants Committee (UGC) made subsequent to their meeting with our staff and students during the visit to the University on 10 September 2015, the Senate Committee on Teaching and Learning approved at its meeting held on 14 October 2015 to develop an Early Feedback Collection System, which has also been discussed and approved by the Deans Committee, for implementation as a pilot scheme for all undergraduate courses offered in Term 2 of 2015-16."+
+""+
+"This new System is designed to capture student feedback on individual classes right after the add/drop period to complement the end-of-term Course and Teaching Evaluation (CTE) exercise. Students will be asked to provide feedback on the following two questions regarding satisfaction with the courses: "+
+""+
+""+
+"(a) What are the best aspects of the course so far?"+
+"(b) Which aspects are most in need of improvement so far?"+
+""+
+"In order for problems concerning course delivery to be identified and dealt with in a more timely manner, reports on the feedback collected will be made available for online access or download from the system, in a few days after the feedback collection period, by the relevant course teachers, Programme Directors/Coordinators, Department Chairman/School Directors and Faculty Deans. "+
+""+
+"The system will be opened to collect the feedback of students from 9:00 am to 7:00 pm during the period from 3 February to 17 February 2016, and then for teachers to review the reports from 9:00 am to 7:00 pm during the period from 22 February to 4 March 2016.",
+        "image_large":"https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
+        "image_small": "https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png",
+        "survey_url": "https://raw.githubusercontent.com/Project-MCU/ARCHIVE/master/TestSimpleSurvey.json",
+     },
+     {
+        "id":"1516_y2_Term_End_Evaluation",
+        "title":"Term End Evaluation",
+        "format":"Retrospective Review",
+        "effective_since":"24jun2015",
+        "effective_until":"29jun2015",
+		"description":"Blahblahblahblahblahblahblah",
+        "image_large":"https://www.med.cuhk.edu.hk/eng/home/35Anniversary/Logo/images/Logo.jpg",
+        "image_small":"https://intranet.mfpo.cuhk.edu.hk/med/img/logo2.png"
+     }
+	]
