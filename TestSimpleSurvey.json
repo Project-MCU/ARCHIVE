@@ -1,7 +1,15 @@
 [{
     "type": 0,
-    "title": "Title of survey",
-    "description": "description of survey",
+    "title": "醫學院學生壓力及學習生活意見調查",
+    "description": "Survey on the Stress Level and Learning Experience of CUHK Medical Students",
+    "required": true
+  },{
+    "type": 4,
+    "title": "你覺得此刻的壓力指數是(1-7)?",
+    "description": "What is your current level of stress, on a scale of 1-7?",
+    "default": null,
+    "likert-max":"最小 Lowest",
+    "likert-min":"最大 Highest",
     "required": true
   },{
     "type": 1,
@@ -20,14 +28,6 @@
       2020,
       2021,
       2022],
-    "required": true
-  },{
-    "type": 4,
-    "title": "Painful Memory",
-    "description": "On a scale of 1 to 7, how would you rate your pain?",
-    "default": null,
-    "likert-max":"Max Pain",
-    "likert-min":"Min Pain",
     "required": true
   },{
     "type": 2,
