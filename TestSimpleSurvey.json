@@ -1,15 +1,15 @@
 [{
-    "type": 4,
+    "type": 0,
     "title": "Title of survey",
     "description": "description of survey",
     "required": true
   },{
-    "type": 0,
+    "type": 1,
     "title": "Name",
     "description": null,
     "default": "Anonymous"
   },{
-    "type": 1,
+    "type": 3,
     "title": "Year",
     "description": "Your expected graduation year",
     "default": null,
@@ -22,7 +22,7 @@
       2022],
     "required": true
   },{
-    "type": 2,
+    "type": 4,
     "title": "Painful Memory",
     "description": "On a scale of 1 to 7, how would you rate your pain?",
     "default": null,
@@ -30,7 +30,7 @@
     "likert-min":"Min Pain",
     "required": true
   },{
-    "type": 3,
+    "type": 2,
     "title": "Long Text",
     "description": "A long long long long text",
     "required": true
