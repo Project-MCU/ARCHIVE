@@ -36,8 +36,8 @@
       "自己的期望 Expectations towards self",
       "感情 Relationship",
       "金錢 Money",
-      "課外活動 Extra-curricular activities",
-      "Other"],
+      "課外活動 Extra-curricular activities"],
+    "others": true,
     "required": true
   }
 ]
