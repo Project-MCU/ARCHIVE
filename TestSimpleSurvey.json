@@ -96,23 +96,6 @@
   },
   {
     "type": 5,
-    "title": "你感到有壓力時會與何人分擔？(可選多於一項) ",
-    "description": "Who would you share your feelings with when you feel stressed? (You may choose more than one option.)",
-    "default": null,
-    "choices": [
-      "家人 Family",
-      "朋友 Friends",
-      "男/女朋友 Boyfriend/Girlfriend",
-      "同學 Classmates",
-      "老師 Teacher",
-      "社工 Social worker",
-      "心理輔導員 Counsellor"
-    ],
-    "others": true,
-    "required": true
-  },
-  {
-    "type": 5,
     "title": "你會如何減壓？(可選多於一項)",
     "description": "How do you relieve your stress? (You may choose more than one option.)",
     "default": null,
@@ -137,6 +120,85 @@
     "likert-max": "最滿意 Most",
     "likert-min": "最不滿意 Least",
     "required": true
+  },
+  {
+    "type": 3,
+    "title": "你認為以下哪個教學課程能令你更有效地學習？",
+    "description": "Which course structure do you think is more beneficial to learning?",
+    "default": null,
+    "choices": [
+      "Panel Based",
+      "HUF/HUS"
+    ],
+    "required": true
+  },
+  {
+    "type": 3,
+    "title": "你認為課程內容與考核內容相符嗎？",
+    "description": "How well do you think the examined content correlates to the course content?",
+    "default": null,
+    "choices": [
+      "完全相符 Totally related",
+      "很大程度相符 Largely related",
+      "尚可 Neutral",
+      "不太相符 Largely unrelated",
+      "完全不相符 Totally unrelated"
+    ],
+    "required": true
+  },
+  {
+    "type": 3,
+    "title": "你認為醫學院在學術上給予同學的支援足夠嗎？",
+    "description": "Do you think the faculty has offered enough academic support to students?",
+    "default": null,
+    "choices": [
+      "足夠 Yes",
+      "不足夠 No"
+    ],
+    "required": true
+    
+  },
+  {
+    "type": 1,
+    "title": "承上題，若你認為「不足夠」，你認為醫學院應如何向同學提出支援？",
+    "description": "If no, what do you think the faculty should do to aid students in their studies?"
+  },
+  {
+    "type": 3,
+    "title": "你有沒有曾經向醫學院的輔導員尋求協助？",
+    "description":"Have you sought help from the faculty's student counsellor before?",
+    "default": null,
+    "choices": [
+      "有 Yes",
+      "沒有 No"
+    ],
+    "required": true
+  },
+  {
+    "type": 3,
+    "title": "承上題，如有，你認為是次經歷對你有幫助嗎？",
+    "description":"If yes, do you think the experience was helpful to you?",
+    "default": null,
+    "choices": [
+      "有 Yes",
+      "沒有 No"
+    ]
+  },
+  {
+    "type": 3,
+    "title": "如沒有，你的原因是：",
+    "description":"If no, what was your reason?",
+    "default": null,
+    "choices": [
+      "沒有需要 No need",
+      "覺得輔導員不能幫助你 Think that the counsellor is unable to help you",
+      "害怕別人的目光 Afraid of being stigmatized"
+    ]
+  },
+  {
+    "type": 2,
+    "title": "其它意見",
+    "description": "Other opinions or suggestions<br>(任何關於課程內容、教學情況及壓力的想法。) Please feel free to reflect anything related to the course curriculum, teaching, and stress management! "
   },
   {
     "type": 3,
