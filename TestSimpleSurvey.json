@@ -10,8 +10,8 @@
     "title": "你覺得此刻的壓力指數是(1-7)?",
     "description": "What is your current level of stress, on a scale of 1-7?",
     "default": null,
-    "likert_max": "最小 Lowest",
-    "likert_min": "最大 Highest",
+    "likert_min": "最小 Lowest",
+    "likert_max": "最大 Highest",
     "required": true
   },
   {
@@ -49,8 +49,8 @@
     "title": "你覺得在考試前夕(一個月內)的壓力指數平均是？",
     "description": "What is your AVERAGE level of stress in the month before exams?",
     "default": null,
-    "likert_max": "最小 Lowest",
-    "likert_min": "最大 Highest",
+    "likert_min": "最小 Lowest",
+    "likert_max": "最大 Highest",
     "required": true
   },
   {
@@ -58,8 +58,8 @@
     "title": "你覺得在考試前夕(一個月內)的壓力指數最大是？",
     "description": "What is your MAXIMUM level of stress in the month before exams?",
     "default": null,
-    "likert_max": "最小 Lowest",
-    "likert_min": "最大 Highest",
+    "likert_min": "最小 Lowest",
+    "likert_max": "最大 Highest",
     "required": true
   },
   {
